@@ -1,11 +1,24 @@
-# ordenar por nombre y por edad, en lista de menor a mayor.
-# nombres: Inti, Lucas, Mike.
-#Edad: Inti: 25, Miki: 20, Lucas: 26
+# atletas = ["Inti", "Mike", "Lucas"]
+# atletas.append("Morel")
+# atletas.sort()
+# print(atletas)
 
-name_list = (("inti", "Mike", "Lucas", "Edu", "Lauti"))
-# edad = int[24, 10, 25, 50, 22]
-print(name_list[0])
-print(name_list[1])
-print(name_list[2])
-print(name_list[3])
-print(name_list[4])
+
+# lista = [['Mike',21],['Lucas',23],['Nacho',20],['Inti',24]]
+# print(lista[1])
+# print(lista[1][1])
+# print(lista[1][0])
+# ejemplo para comprender como toma posición de la lista.
+
+
+# num = [-3, -2, -3, -4]
+# auxmayor= num[0]
+
+# for i in num:
+#     if i > auxmayor:
+#         auxmayor = i
+        
+# print(auxmayor)
+
+
+
